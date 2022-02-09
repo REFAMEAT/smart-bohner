@@ -25,3 +25,4 @@ Pinout des Raspberry PI 2 W
 <img src="/docs/images/Raspberry Pinbelegung.jpg" width="578" height="433,5" >
 
 <img src="/docs/images/Raspberry Pinbelegung 2.jpg" width="578" height="433,5" >
+
