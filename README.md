@@ -1,5 +1,10 @@
 # Smart-Bohner
 
+## Automation
+[![.NET](https://github.com/REFAMEAT/smart-bohner/actions/workflows/dotnet.yml/badge.svg)](https://github.com/REFAMEAT/smart-bohner/actions/workflows/dotnet.yml)
+[![DocFX Build and Publish](https://github.com/REFAMEAT/smart-bohner/actions/workflows/docs.yml/badge.svg)](https://github.com/REFAMEAT/smart-bohner/actions/workflows/docs.yml)
+[![pages-build-deployment](https://github.com/REFAMEAT/smart-bohner/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/REFAMEAT/smart-bohner/actions/workflows/pages/pages-build-deployment)
+
 ## Aufbau
 ![Aufbau](/docs/images/app_diagram.png)
 
