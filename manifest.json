@@ -1,0 +1,740 @@
+{
+  "homepages": [],
+  "source_base_path": "E:/SourceCode/Csharp/Git/Github/REFAMEAT/smart-bohner/src/SmartBohner.Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Abstractions.Contracts.MessageType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Abstractions.Contracts.MessageType.html",
+          "hash": "Q7SHw0gWBqYTS0u1k/JvjEUlBA2pAe3T2RdjpxmETTQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Abstractions.Contracts.PinEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Abstractions.Contracts.PinEvent.html",
+          "hash": "PRe6RDkf4A1yc/26QJjFfEYjTLbOlxUaFrZzVQCducI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Abstractions.Contracts.PinEventType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Abstractions.Contracts.PinEventType.html",
+          "hash": "mqvneNCjewvnNDu62tVi9sm5MLeq3sib+NNrnrrVJl4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Abstractions.Contracts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Abstractions.Contracts.html",
+          "hash": "jDPcIWukCh+x++ISmx8xfEj2wp5CqPI21wwt1RliwMs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Abstractions.ICoffeeMachineService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Abstractions.ICoffeeMachineService.html",
+          "hash": "poYrMyw4ta33+6ctKKW+Faj/WDwLNOBhDbQGcrDu5Tk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Abstractions.ICoffeeService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Abstractions.ICoffeeService.html",
+          "hash": "6jO3gSStV8MDAbkTKBqkEuGLoUCknoYIBYtynMfBvzs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Abstractions.IMaintenanceMessagingService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Abstractions.IMaintenanceMessagingService.html",
+          "hash": "uIWGXNK2PisseefQmAc1E9A2Wspf46fkT1xpfn+aK6M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Abstractions.IMaintenanceService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Abstractions.IMaintenanceService.html",
+          "hash": "tsQIcltcsGBuSdtw93No8FcgbL+Fa1JdvtPb1akQw1M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Abstractions.ISpecialActionService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Abstractions.ISpecialActionService.html",
+          "hash": "kfEQhwxySRCAEaYr8EPC2GrRG3slPvDtfvXzadddhOk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Abstractions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Abstractions.html",
+          "hash": "pzwbTabA1q7b5/+tz1hsajNqtq8MHUnjTuee5gjuzig="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.AspNet.AspNetExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.AspNet.AspNetExtensions.html",
+          "hash": "RfBsOaurl1u4rY6sdmUtOQ4wdBGjEbpI9Xbk/2yHrbA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.AspNet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.AspNet.html",
+          "hash": "X9wQFkKYI1g+5/SKF5YXwg7WB0srL9/cnF1pJo58pC0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Extensions.ControlUnitExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Extensions.ControlUnitExtensions.html",
+          "hash": "yNICUIKLOEsJahdehVXhzeBs2XhYEdLsz767RHouNnc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Extensions.html",
+          "hash": "tYR/q71co/x1wMPE2isjDZpaHB2PrGaRvleg21+wKWg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Tests.MaintenanceMessagingServiceTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Tests.MaintenanceMessagingServiceTests.html",
+          "hash": "WsbhpIjUYWCd6qEG2vLWy6aKD27PIjVfrVeweFfWR14="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.ControlUnit.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.ControlUnit.Tests.html",
+          "hash": "CgP+uXcI8SnpsADGBNW3bRrt7Yi4lANvwRNoC98Cr1M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.Abstractions.IGpioChangeContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.Abstractions.IGpioChangeContainer.html",
+          "hash": "lYAzMBERsG/Sl2e2VKWHjaToLawbTSwB4i0/6took4g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.Abstractions.IPinService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.Abstractions.IPinService.html",
+          "hash": "OZdkxwiadH88kR4VsWekxFFbYVEKnEA5IzyeS7d2Nl8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.Abstractions.IPinServiceFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.Abstractions.IPinServiceFactory.html",
+          "hash": "8cVhnyOCcWENE7e5+mYoV9CyZkpXplYh5r2MSQxe1sc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.Abstractions.IPinSwitcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.Abstractions.IPinSwitcher.html",
+          "hash": "7N/wELv//u9ywwAN5HTKEdgjTtvznAIbI52Iic+og1g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.Abstractions.PinInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.Abstractions.PinInfo.html",
+          "hash": "3R7s3EhHhF9D4qtHluL0CmMGYQi5aAc7x8RLYv9InmI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.Abstractions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.Abstractions.html",
+          "hash": "QoOv1L5HaTCHY87lKSgZZfY/944xA63TLSk8Q9rA9M0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.Extensions.GpioExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.Extensions.GpioExtension.html",
+          "hash": "3N4wmd+Dh68apTWmzXw7ZkZSeuGSYQE+bdxFWL1MTF4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.Extensions.html",
+          "hash": "CCbcxuV45qHg/43q2amg0fE26jXm0i0vu78llqkuKu0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.GpioChangeContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.GpioChangeContainer.html",
+          "hash": "ykdAXNvmcty9bMWJ2BwJkOYhUy7DaEtJfAikbDEAgGg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.PinSwitcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.PinSwitcher.html",
+          "hash": "xXeFXZTAxd7gmfMuHipfotfqWawxP7z1kehu7AfBN6s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Gpio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Gpio.html",
+          "hash": "BRkUSFOJWJPsCAt1XndbYgiG8W5XW/NGzYqiIw+XZ0I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Client.Infrastructure.CoffeeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Client.Infrastructure.CoffeeType.html",
+          "hash": "2ZMQGrIeYVxPiXV5697h1KQnA0gs5yPNCkfaDF2/peQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Client.Infrastructure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Client.Infrastructure.html",
+          "hash": "yEaTEroOqkKJ91FQ22v09g8vJv4WHwkJSDfrakYkQiQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Controllers.CoffeeController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Controllers.CoffeeController.html",
+          "hash": "0YJZzRG7+GZc101v8GYZUkp+96Q1per/0Kb/i/kuQEs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Controllers.CoffeeMachineController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Controllers.CoffeeMachineController.html",
+          "hash": "Q1YYuObw+45rTKMXxj8BZPRLPFCGIsS2PwdbbCHwri4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Controllers.MaintenanceController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Controllers.MaintenanceController.html",
+          "hash": "H6GLDtSunt35uYSAlQplQZrhfk/SP2agI2oIU3u8RmU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Controllers.MessagingTestController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Controllers.MessagingTestController.html",
+          "hash": "Xn0K4CQrHW37PSmpTw/piB0qBj5z+MI6fyGgJC+H41k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Controllers.html",
+          "hash": "j87rJhQ3pOA5KifR4L2hbviopq4KMjMOT9kfYYhjnLo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Hubs.IWarningHubNotifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Hubs.IWarningHubNotifier.html",
+          "hash": "5p7YdheOLyT83QivrS0nH5P/XdOei8mIWd93y38knOk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Hubs.WarningHub.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Hubs.WarningHub.html",
+          "hash": "rI4Jp6pHuwSP5zAdtY2sH5aVrS7ytGByymidMPUc2ic="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Hubs.WarningHubNotifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Hubs.WarningHubNotifier.html",
+          "hash": "mplSrHK6KhiZjFh5bne4ekkXdcDRPbkpE9rQjbcke8g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Hubs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Hubs.html",
+          "hash": "0rwPG0+E5KopRGb3/LskpadcuI/z1J7ze/g8lks1BFU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Pages.ErrorModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Pages.ErrorModel.html",
+          "hash": "VpSxWoiQ85LL7mkhncBDxtR+Es/DPX4MTcfEbH1dpFw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Server.Pages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Server.Pages.html",
+          "hash": "sgj6hBhZ73v43GB1/Gmjrv+eW9Rps7pDbOKppEYeDuA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.Extensions.SharedExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.Extensions.SharedExtension.html",
+          "hash": "/7eqi922PgcWVuQvwbe7zRKmcZlgWYvNcYEn8Y3cWNU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.Extensions.html",
+          "hash": "+urvcg+n4FI9VkwN2azwlFKFnFO3koz+eS3Mrsw0c1I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.MaintenanceInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.MaintenanceInfo.html",
+          "hash": "DMbGl70eJ/ZQ0t2WnDrJ0wBd5PSF2JAwErQ15g3Hsck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.Resources.WarningResource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.Resources.WarningResource.html",
+          "hash": "DO4ABjpIKTGj8lEdRUBYXqJjf06iJ0Na2jdeCWX+KQI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.Resources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.Resources.html",
+          "hash": "R+RXliS4dgexsjOTknnh3sc3U6s4w4eloh4VMoLN0Ww="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.SignalR.IWarningHubConnectionHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.SignalR.IWarningHubConnectionHandler.html",
+          "hash": "seZNnF4dGHQHCMuPJ7GE7eI8AL03F34jVV5uPJ+VsuY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.SignalR.SignalRClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.SignalR.SignalRClient.html",
+          "hash": "Fj6ro+ScJAldDT1aCCBEcUv+WhwKuMa2f7ka5P6oGK8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.SignalR.WarningHubConnectionHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.SignalR.WarningHubConnectionHandler.html",
+          "hash": "4DJkQWcmu+7W/YffL3lJYe4zCf3Xw62tEsPZ+HoYfto="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.SignalR.WarningResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.SignalR.WarningResult.html",
+          "hash": "cg6kd2G7anRRGNUDsqFiXOk4vFuZWz6qW6eSY8utuaE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.SignalR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.SignalR.html",
+          "hash": "xCxDVuW08K3nS7A0OpfpiVXFzDHcLgSN9PJITDwkwug="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SmartBohner.Web.Shared.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SmartBohner.Web.Shared.html",
+          "hash": "vHRAF+tvrb6RImTaELPM+yHyeN+wWjGG0ycSxdQkThM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "F1vnXpKmii6DIdKepBv29GlMhan9BOiGPRUyBMutGDg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "OM6PQxdSZSYBIVuxcf2JlMyTaOaMlCNam86lcPN6o4c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "URAftVODXmW0c6X/SFn3++PhDOgij2Ch6hCah/tBnnA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "1SdMuM5H4cfRI7iHB9RAi6+CgPNnSTbHoK5Ib4RG0x0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 51,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
