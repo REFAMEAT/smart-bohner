@@ -26,7 +26,7 @@ jobs:
         with:
           args: install docfx
       - name: Install dependencies
-        run: dotnet restore
+        run: dotnet restore ./src/smabo.sln
       - name: DocFX Build
         working-directory: docs
         run: docfx docfx.json
