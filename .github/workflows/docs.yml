@@ -26,15 +26,15 @@ jobs:
         with:
           args: install docfx
       - name: Install dependencies
-        run: dotnet restore $GITHUB_WORKSPACE/src/smabo.sln
+        run: dotnet restore ./src/smabo.sln
       - name: DocFX Build
         working-directory: docs
-        run: docfx $GITHUB_WORKSPACE/src/SmartBohner.Documentation/docfx.json  docfx.json
+        run: docfx ./src/SmartBohner.Documentation/docfx.json  docfx.json
         continue-on-error: false
       - name: Publish
         if: github.event_name == 'push'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: $GITHUB_WORKSPACE/src/SmartBohner.Documentation/_site
+          publish_dir: ./src/SmartBohner.Documentation/_site
           force_orphan: true
