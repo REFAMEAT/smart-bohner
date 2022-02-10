@@ -29,7 +29,7 @@ jobs:
         run: dotnet restore ./src/smabo.sln
       - name: DocFX Build
         working-directory: docs
-        run: docfx ./src/SmartBohner.Documentation/docfx.json  docfx.json
+        run: docfx ./src/SmartBohner.Documentation/docfx.json
         continue-on-error: false
       - name: Publish
         if: github.event_name == 'push'
